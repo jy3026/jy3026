@@ -4,7 +4,7 @@
 
 <br>
 <div align=center>
-	<p>🛠 Tools 🛠</p>
+	<h3 align="center"> 💻 Tech Stack 💻</h3>
 </div>
 <div align=center>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white"/></a>&nbsp 
@@ -21,3 +21,5 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>&nbsp 
 </div>
 <br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jy3026&langs_count=8)](https://github.com/jy3026/github-readme-stats)

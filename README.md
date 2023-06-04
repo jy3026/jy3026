@@ -22,4 +22,4 @@
 </div>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jy3026&langs_count=8)](https://github.com/jy3026/github-readme-stats)
+[![Jinyoung's github stats](https://github-readme-stats.vercel.app/api?username=jy3026)](https://github.com/jy3026)

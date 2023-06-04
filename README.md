@@ -2,6 +2,8 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JinYoung%20Github!&fontSize=90" />	
 </div>
 
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hello&desc=I'm%20JinYoung&fontSize=60&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
+
 <br>
 <div align=center>
 	<h3 align="center"> 💻 Tech Stack 💻</h3>
@@ -22,4 +24,6 @@
 </div>
 <br>
 
-[![Jinyoung's github stats](https://github-readme-stats.vercel.app/api?username=jy3026)](https://github.com/jy3026)
+<div align=center>
+[![Jinyoung's github stats](https://github-readme-stats.vercel.app/api?username=jy3026&show_icons=true&theme=dracula)](https://github.com/jy3026)
+</div>

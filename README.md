@@ -20,4 +20,6 @@
 </div>
 <br>
 
-![Jinyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=jy3026&show_icons=true&theme=radical)
+<div align=center>
+![Jinyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=jy3026&show_icons=true&theme=dracula)
+</div>

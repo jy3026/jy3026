@@ -34,5 +34,15 @@
 
 <br>
 
+<div align=center>
+	<p>🌻 portfolio 🌻</p>
+</div>
+<div align=center>
+	<a href="https://velog.io/@jy3026](https://halved-growth-186.notion.site/4b3b840cc5994bb7b96bf77893388d35?pvs=4">
+		<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
+	</a>
+</div>
+<br>
+
 ![Jinyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=jy3026&show_icons=true&theme=dracula)
 

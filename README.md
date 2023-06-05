@@ -21,7 +21,7 @@
 <br>
 
 <div align=center>
-	<p>🎨 SNS 🎨</p>
+	<h3 align="center">🎨 SNS 🎨</h3>
 </div>
 <div align=center>
 	<a href="https://velog.io/@jy3026">
@@ -35,7 +35,7 @@
 <br>
 
 <div align=center>
-	<p>🌻 portfolio 🌻</p>
+	<h3 align="center">🌻 portfolio 🌻</h3>
 </div>
 <div align=center>
 	<a href="https://velog.io/@jy3026](https://halved-growth-186.notion.site/4b3b840cc5994bb7b96bf77893388d35?pvs=4">

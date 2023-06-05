@@ -20,6 +20,19 @@
 </div>
 <br>
 
+<div align=center>
+	<p>🎨 SNS 🎨</p>
+</div>
+<div align=center>
+	<a href="https://velog.io/@jy3026">
+		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
+	</a>
+	<a href="mailto:cjyhappy12@gmail.com">
+		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
+	</a>
+</div>
+
+<br>
 
 ![Jinyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=jy3026&show_icons=true&theme=dracula)
 

@@ -7,6 +7,7 @@
 <div align=center>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/MyBatis-%23002583?style=for-the-badge&logo=mybatis&logoColor=white" width="70" height="21"/>&nbsp
   <img src="https://img.shields.io/badge/JPA-00758F?style=flat-square"/>&nbsp
   <img src="https://img.shields.io/badge/C%23-00599C?style=flat-square&logo=C-Sharp&logoColor=white"/>&nbsp <br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp

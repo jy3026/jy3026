@@ -5,8 +5,8 @@
 	<h2 align="center"> 💻 Tech Stack 💻</h2>
 </div>
 <div align=center>
-  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> &nbsp 
-  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">&nbsp 
+  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Conda-Forge&logoColor=white"> &nbsp 
+  <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">&nbsp 
   <img src="https://img.shields.io/badge/MyBatis-%23002583?style=for-the-badge&logo=mybatis&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/JPA-00758F?style=for-the-badge&logo=mybatis&logoColor=white"/>&nbsp <br>
   <img src="https://img.shields.io/badge/C%23-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">&nbsp

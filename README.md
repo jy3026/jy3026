@@ -2,7 +2,7 @@
 
 <br>
 <div align=center>
-	<h3 align="center"> 💻 Tech Stack 💻</h3>
+	<h2 align="center"> 💻 Tech Stack 💻</h2>
 </div>
 <div align=center>
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> &nbsp 
@@ -20,7 +20,7 @@
 <br>
 
 <div align=center>
-	<h3 align="center">🎨 SNS 🎨</h3>
+	<h2 align="center">🎨 SNS 🎨</h2>
 </div>
 <div align=center>
 	<a href="https://velog.io/@jy3026">

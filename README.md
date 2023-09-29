@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">&nbsp 
   <img src="https://img.shields.io/badge/MyBatis-%23002583?style=for-the-badge&logo=mybatis&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/JPA-00758F?style=for-the-badge&logo=mybatis&logoColor=white"/>&nbsp <br>
-  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/C%23-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/unity-%23000000?style=for-the-badge&logo=unity&logoColor=white"/>&nbsp <br>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">&nbsp <br>

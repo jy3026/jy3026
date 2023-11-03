@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/C%23-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/unity-%23000000?style=for-the-badge&logo=unity&logoColor=white"/>&nbsp <br>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">&nbsp <br>
   <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white"/></a>&nbsp 

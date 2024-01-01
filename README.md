@@ -2,6 +2,7 @@
 
 *1998.03.26* <br>
 *Web Server Developer*
+* * *
 
 ![](https://img.shields.io/badge/Java-007396?&logo=Conda-Forge&logoColor=white)
 ![](https://img.shields.io/badge/SpringBoot-6DB33F?&logo=springboot&logoColor=black)
@@ -16,5 +17,3 @@
 **My Info**  
 🔥 **BLOG**&nbsp;&nbsp;&nbsp;https://velog.io/@jy3026 <br>
 🔥  **MAIL**&nbsp;&nbsp;&nbsp;cjyhappy12@gmail.com
-
-

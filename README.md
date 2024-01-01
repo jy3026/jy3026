@@ -1,4 +1,4 @@
-## *Web Server Developer*, 최진영 
+## 최진영, *Web Server Developer*
 
 <div align=center>
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Conda-Forge&logoColor=white"> &nbsp 

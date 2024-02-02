@@ -14,7 +14,7 @@
 ![](https://img.shields.io/badge/AWS-232F3E?&logo=amazonaws&logoColor=white)
 
 * * *
-**My Info**  
+*My Info*
 🔥 **PORTFOLIO**&nbsp;&nbsp;&nbsp; https://jinyoung.super.site <br>
 🔥 **BLOG**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://velog.io/@jy3026 <br>
 🔥 **MAIL**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cjyhappy12@gmail.com

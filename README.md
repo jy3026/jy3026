@@ -1,6 +1,5 @@
 ## 최진영
 
-*1998.03.26* <br>
 *Web Server Developer*
 * * *
 

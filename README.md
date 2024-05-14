@@ -15,4 +15,9 @@
 * * *
 *My Info*<br>
 **BLOG**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://velog.io/@jy3026 <br>
-**MAIL**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cjyhappy12@gmail.com
+**MAIL**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cjyhappy12@gmail.com <br>
+
+* * *
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/jy3026"/>
+</a>

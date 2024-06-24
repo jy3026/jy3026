@@ -19,5 +19,5 @@
 
 * * *
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/jy3026" width="1000" height="200"/>
+  <img src="https://render.gitanimals.org/lines/jy3026?pet-id=579310280284689000" width="600" height="120"/>
 </a>
